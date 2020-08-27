@@ -14,9 +14,8 @@ Single stock investment portfolio application made for Intro To Android Developm
    UI
 
 **Search For A Stock**
+   <img src="http:lh3.googleusercontent.com/UliOjkqbTacOuHz-hcZtUEQ4s-MwiLlGQPFNoR9PvlAQL68c5chjQyif5y9SNVVCVwpp6Ym5QYJA1B0yoZqRJ1X0kZff5BmtN6MFVWpS_jHX0dIak9rXrCyk_Wg56n9sV3cdSv2Xo7w" width="400" height="700" />
 
-**![](https://lh5.googleusercontent.com/mt5z6kMWmuiI41uUoAhXNCOnr7rpO6glPGuJmpmpvxUyclZV3WGzBwEwcJVDqsZT5LFnwR5vKZBsLOzgbCRi5zvvGyzDslpCdXP3Qj1mhIwbro4WWFAthhqy4ttbFgFdkHP4I-c4HFA)
+   <img src="http://giphy.com/gifs/U7y4G7OtBnsiexASTA" width="400" height="700" />
 
-**![](https://lh5.googleusercontent.com/hp9ksoTPU6vdNYp0GZcKCvDEezBNCMfTcROm4IvRwufmIPnSrvlHG70VgxCPEn5b4jkN1U8DSpA6yfKDnlfkmyR-BHmZM0Z9WI3jIUuIhRv7VbO9ypO6JuprA6zy_au8xTr4Vdb-ikQ)****
 
-   
