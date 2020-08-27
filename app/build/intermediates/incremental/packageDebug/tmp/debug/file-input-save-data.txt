@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Thu Aug 27 13:46:14 EDT 2020
+1.base=C\:\\Users\\Frank\\Documents\\GitHub\\DolomiteV2\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=C\:\\Users\\Frank\\Documents\\GitHub\\DolomiteV2\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+1.path=classes.dex
