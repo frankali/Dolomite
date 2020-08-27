@@ -12,3 +12,6 @@ Single stock investment portfolio application made for Intro To Android Developm
    
  - Design a robust and aesthetically pleasing 
    UI
+
+Presentation can be found here:
+https://docs.google.com/presentation/d/1qVHKIZIAYjbFhPJ0YUM10iZfHwrfYm8696g9QFB8fms/edit?usp=sharing
